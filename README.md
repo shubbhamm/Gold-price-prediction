@@ -1,1 +1,1 @@
-# Gold-price-prediction
+# ML Projects
